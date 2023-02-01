@@ -1,0 +1,420 @@
+@media (max-width: 320px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        --bs-navbar-padding-y: 10px;
+    }
+    #navber img {
+        width: 120px;
+    }
+    .common-btn button {
+        padding: 3px 5px;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .banner-item h1 {
+        width: 300px;
+        font-weight: 600;
+        font-size: 31px;
+        line-height: 120%;
+        margin-top: -160px;
+    }
+    .banner-item p {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+        width: 300px;
+        padding-top: 15px;
+        padding-bottom: 22px;
+    }
+
+    #counter {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .counter-part {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 10px;
+        border-radius: 10px;
+    }
+    .counter-left a {
+        font-size: 16px;
+    }
+    .counter-left p {
+        font-size: 20px;
+        line-height: 22px;
+        padding-right: 10px;
+    }
+    .counter-left {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .counter-right {
+        text-align: center;
+    }
+    .counter-right-2 {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .counter-right-1 h5 {
+        font-weight: 600;
+        font-size: 28px;
+        color: #151515;
+    }
+    .counter-right-2 h5 {
+        font-weight: 600;
+        font-size: 28px;
+        color: #151515;
+    }
+    .counter-right-3 h5 {
+        font-weight: 600;
+        font-size: 28px;
+        color: #151515;
+    }
+
+    .counter-right-1 p {
+        padding-top: 8px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .counter-right-2 p {
+        padding-top: 8px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .counter-right-3 p {
+        padding-top: 8px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .common-title {
+        width: 100%;
+    }
+    .common-title h4 {
+        font-size: 20px;
+        padding-bottom: 0px;
+        width: 100%;
+        line-height: 30px;
+    }
+
+    .common-title p {
+        font-size: 14px;
+        line-height: 18px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    #service {
+        padding-bottom: 30px;
+    }
+    .service-top {
+        padding-top: 13px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        width: 297px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .service-top img {
+        width: 60px;
+    }
+    .service-bottom img {
+        width: 60px;
+    }
+    .service-bottom {
+        padding-top: 13px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        width: 297px;
+        border-radius: 10px;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .service-top h4 {
+        padding-top: 25px;
+        padding-bottom: 6px;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .service-top p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service-bottom h4 {
+        padding-top: 25px;
+        padding-bottom: 6px;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .service-bottom p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    #work {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .work-top {
+        margin-top: 20px;
+    }
+
+    #agenc {
+        padding-bottom: 35px;
+        padding-top: 30px;
+    }
+    .agenc-left-top {
+        width: 45%;
+        text-align: center;
+    }
+    .agenc-left-bottom {
+        margin-top: 0;
+        width: 45%;
+        text-align: center;
+    }
+    .agenc-left {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .agenc-middel {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+    .agenc-middel-top {
+        width: 45%;
+        text-align: center;
+    }
+    .agenc-middel-bottom {
+        width: 45%;
+        margin-top: 0;
+        text-align: center;
+    }
+    .agenc-left-top h4 {
+        font-weight: 700;
+        font-size: 20px;
+        color: #151515;
+        padding-top: 20px;
+        padding-bottom: 5px;
+        line-height: 21px;
+    }
+    .agenc-left-bottom h4 {
+        font-weight: 700;
+        font-size: 20px;
+        color: #151515;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        line-height: 21px;
+    }
+    .agenc-middel-top h4 {
+        font-weight: 700;
+        font-size: 20px;
+        color: #151515;
+        padding-top: 20px;
+        padding-bottom: 5px;
+        line-height: 21px;
+    }
+    .agenc-middel-bottom h4 {
+        font-weight: 700;
+        font-size: 20px;
+        color: #151515;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        line-height: 21px;
+    }
+    .agenc-left-top p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #737373;
+        width: 100%;
+    }
+    .agenc-left-bottom p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #737373;
+        width: 100%;
+    }
+    .agenc-middel-top p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #737373;
+        width: 100%;
+    }
+    .agenc-middel-bottom p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #737373;
+        width: 100%;
+    }
+    .agenc-left img {
+        width: 35px;
+    }
+    .agenc-middel img {
+        width: 35px;
+    }
+    .agenc-right {
+        margin-top: 25px;
+        text-align: center;
+    }
+    .agenc-right img {
+        width: 50%;
+    }
+
+
+    #review {
+        margin-bottom: 45px;
+        margin-top: 30px;
+    }
+    .review-details-top {
+        padding-left: 10px;
+        padding-top: 15px;
+    }
+    .review-details-top p {
+        font-size: 12px;
+        line-height: 17px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 5px;
+    }
+    .review-details-top img:first-child {
+        height: 22px;
+        padding-left: 5px;
+    }
+    .review-details-top img:last-child {
+        height: 10px;
+        padding-left: 5px;
+    }
+    .review-d-b-img img {
+        width: 35px;
+    }
+    .review-d-b-img {
+        padding-top: 11px;
+        padding-bottom: 20px;
+        padding-right: 8px;
+    }
+    .review-details-bottom {
+        padding-left: 10px;
+    }
+    .review-d-b-text h5 {
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .review-d-b-text p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-bottom: 20px;
+    }
+
+
+    #form {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .form-left h4 {
+        font-size: 28px;
+        line-height: 31px;
+        color: #151515;
+        width: 296px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .form-left p {
+        font-size: 12px;
+        line-height: 17px;
+        width: 295px;
+        text-align: center;
+    }
+    .form-part {
+        display: block;
+    }
+    .form-right h4 {
+        font-weight: 700;
+        font-size: 18px;
+        width: 295px;
+        padding-top: 10px;
+        padding-bottom: 26px;
+    }
+    .form-right {
+        width: 295px;
+        padding-left: 5px;
+        border-radius: 10px;
+        background-color: #fff;
+        margin-top: 15px;
+    }
+    .form-right input {
+        width: 285px;
+        height: 35px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    .form-right h6 {
+        font-size: 13px;
+        padding-bottom: 3px;
+    }
+    .form-right .common-btn button {
+        padding: 4px 84px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        border-radius: 5px;
+        font-size: 15px;
+    }
+
+    #footer {
+        padding-top: 20px;
+    }
+    .footer-1 {
+        text-align: center;
+    }
+    .footer-1 p {
+        font-size: 13px;
+        line-height: 20px;
+        width: 100%;
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+    .footer-details {
+        padding-left: 10px;
+        padding-bottom: 30px;
+        padding-right: 10px;
+    }
+    #footer .col-lg-2 {
+        width: 50%;
+    }
+    .footer-top h5 {
+        padding-bottom: 10px;
+    }
+    .footer-bottom-1 p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .footer-bottom p {
+        font-size: 14px;
+        line-height: 25px;
+        width: 98px;
+    }
+    .copy-right {
+        margin-top: -20px;
+    }
+    .copy-right p {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+}
+
